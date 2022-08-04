@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aminahnurrahmawati
-- 👀 I’m interested in data science, data analytics and computational physics
+- 👀 I’m interested in data science, Internet of Things, data analytics and computational physics
 - 🌱 I’m currently learning Instrumentational and computational physics also data scince in Bandung Institute of Technology
 - 💞️ I’m looking to collaborate on instrumentation, computational physics, data science and data analytics
 - 📫 How to reach me https://linktr.ee/aminahnurrahmawati
