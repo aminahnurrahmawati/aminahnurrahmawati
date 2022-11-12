@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminahnurrahmawati
 - 👀 I’m interested in data science, Internet of Things, data analytics and computational physics
-- 🌱 Graduated from Master Degree from Physics Department with concentration : Instrumentational and computational physics also data science in Bandung Institute of Technology and Bachelor Degree in Instrumentation Physics in Andalas University, Padang.
+- 🌱 Graduated from Master's Degree from Physics Department with concentration : Instrumentational and computational physics also data science in Bandung Institute of Technology and Bachelor's Degree in Instrumentation Physics in Andalas University, Padang.
 - 💞️ I’m looking to collaborate on instrumentation, computational physics, data science and data analytics
 - 📫 How to reach me https://linktr.ee/aminahnurrahmawati
 
